@@ -84,12 +84,9 @@
         };
 
         L.control.layers(baseMaps).addTo(map);
-        L.control.search({
-      layer: poiLayers,
-    initial: false,
-    propertyName: 'name' // Specify which property is searched into.
-  })
-  .addTo(map);
+        var searchLayer = L.geoJson().addTo(map);
+        //... adding data in searchLayer ...
+        L.map('map', { searchControl: {layer: searchLayer} });
 
         // Add scale control to the map
         L.control.scale({ metric: true }).addTo(map);
@@ -135,6 +132,22 @@
                 });
             })
             .catch(error => console.error('Error loading GeoJSON:', error));
+
+        // Add geocoder control to the map
+        L.Control.geocoder({
+        defaultMarkGeocode: false
+        })
+        .on('markgeocode', function(e) {
+            var bbox = e.geocode.bbox;
+            var poly = L.polygon([
+                bbox.getSouthEast(),
+                bbox.getNorthEast(),
+                bbox.getNorthWest(),
+                bbox.getSouthWest()
+            ]).addTo(map);
+            map.fitBounds(poly.getBounds());
+        })
+        .addTo(map);
     </script>
 </body>
 </html>
