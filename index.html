@@ -83,11 +83,6 @@
             "OpenTopoMap": openTopoMapLayer
         };
 
-        L.control.layers(baseMaps).addTo(map);
-        var searchLayer = L.geoJson().addTo(map);
-        //... adding data in searchLayer ...
-        L.map('map', { searchControl: {layer: searchLayer} });
-
         // Add scale control to the map
         L.control.scale({ metric: true }).addTo(map);
 
