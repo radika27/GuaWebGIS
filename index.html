@@ -84,6 +84,12 @@
         };
 
         L.control.layers(baseMaps).addTo(map);
+        L.control.search({
+      layer: poiLayers,
+    initial: false,
+    propertyName: 'name' // Specify which property is searched into.
+  })
+  .addTo(map);
 
         // Add scale control to the map
         L.control.scale({ metric: true }).addTo(map);
