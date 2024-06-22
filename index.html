@@ -36,148 +36,149 @@
     <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
 
     <script>
-        // Function to determine the color based on a property
-        function getColor(JENIS) {
-            switch (JENIS) {
-                case 'V' : return '#2C3E50';
-                case 'H' : return '#F1C40F';
-                case 'Telaga' : return '#E74C3C';
-                case 'Ponor' : return '#E67E22';
-                case 'Tebing' : return '#1ABC9C';
-                case 'Collaps' : return '#9B59B6';
-                case 'Sumur' : return '#2ECC71';
-                case 'mataair' : return '#34495E';
-                case 'ponor' : return '#E67E22';
-                case 'resurgen' : return '#7F8C8D';            
-                default: return 'black';
+// Function to determine the color based on a property
+function getColor(JENIS) {
+    switch (JENIS) {
+        case 'V': return '#2C3E50';
+        case 'H': return '#F1C40F';
+        case 'Telaga': return '#E74C3C';
+        case 'Ponor': return '#E67E22';
+        case 'Tebing': return '#1ABC9C';
+        case 'Collaps': return '#9B59B6';
+        case 'Sumur': return '#2ECC71';
+        case 'mataair': return '#34495E';
+        case 'ponor': return '#E67E22';
+        case 'resurgen': return '#7F8C8D';            
+        default: return 'black';
+    }
+}
+
+// Function to create custom markers
+function pointToLayer(feature, latlng) {
+    return L.circleMarker(latlng, {
+        radius: 8,
+        fillColor: getColor(feature.properties.JENIS),
+        color: "#000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.8
+    });
+}
+
+// Initialize the map and set its view
+var map = L.map('map').setView([-4.3796958349529405, 120.00423277007731], 5);
+
+// Define tile layers
+var openStreetMapLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+});
+
+var openTopoMapLayer = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+    attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="https://opentopomap.org/">OpenTopoMap</a> (CC-BY-SA)'
+});
+
+// Add OpenStreetMap layer by default
+openStreetMapLayer.addTo(map);
+
+// Add layer control
+var baseMaps = {
+    "OpenStreetMap": openStreetMapLayer,
+    "OpenTopoMap": openTopoMapLayer
+};
+
+// Create marker cluster groups
+var karstMarkers = L.markerClusterGroup();
+var praciMarkers = L.markerClusterGroup();
+
+// Load GeoJSON for karst_data
+fetch('karst_data.geojson')
+    .then(response => response.json())
+    .then(data => {
+        // Create GeoJSON layer with custom popups and styles
+        var karstGeoJsonLayer = L.geoJSON(data, {
+            pointToLayer: pointToLayer,
+            onEachFeature: function (feature, layer) {
+                if (feature.properties) {
+                    let popupContent = '<p><strong>Properties:</strong></p><ul>';
+                    const keys = ['namaObjek', 'jenis', 'x', 'y', 'eksoSurvey', 'tahunMap'];
+                    keys.forEach(key => {
+                        if (feature.properties[key]) {
+                            popupContent += `<li>${key}: ${feature.properties[key]}</li>`;
+                        }
+                    });
+                    popupContent += '</ul>';
+                    layer.bindPopup(popupContent);
+                }
             }
-        }
-
-        // Function to create custom markers
-        function pointToLayer(feature, latlng) {
-            return L.circleMarker(latlng, {
-                radius: 8,
-                fillColor: getColor(feature.properties.JENIS),
-                color: "#000",
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 0.8
-            });
-        }
-
-        // Initialize the map and set its view
-        var map = L.map('map').setView([-4.3796958349529405, 120.00423277007731], 5);
-
-        // Define tile layers
-        var openStreetMapLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         });
 
-        var openTopoMapLayer = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
-            attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="https://opentopomap.org/">OpenTopoMap</a> (CC-BY-SA)'
+        // Add the GeoJSON layer to the marker cluster group
+        karstMarkers.addLayer(karstGeoJsonLayer);
+        // Add the marker cluster group to the map
+        map.addLayer(karstMarkers);
+
+        // Loop through each feature and log the coordinates and properties
+        data.features.forEach(feature => {
+            if (feature.geometry && feature.geometry.coordinates) {
+                const coords = feature.geometry.coordinates;
+                const properties = feature.properties;
+                console.log('Coordinates:', coords);
+                console.log('Properties:', properties);
+            }
+        });
+    })
+    .catch(error => console.error('Error loading karst_data GeoJSON:', error));
+
+// Load GeoJSON for Praci_WGS
+fetch('Praci_WGS.geojson')
+    .then(response => response.json())
+    .then(data => {
+        // Create GeoJSON layer with custom popups and styles
+        var praciGeoJsonLayer = L.geoJSON(data, {
+            pointToLayer: pointToLayer,
+            onEachFeature: function (feature, layer) {
+                if (feature.properties) {
+                    let popupContent = '<p><strong>Properties:</strong></p><ul>';
+                    const keys = ['NAMA OBJEK', 'JENIS'];
+                    keys.forEach(key => {
+                        if (feature.properties[key]) {
+                            popupContent += `<li>${key}: ${feature.properties[key]}</li>`;
+                        }
+                    });
+                    popupContent += '</ul>';
+                    layer.bindPopup(popupContent);
+                }
+            }
         });
 
-        // Add OpenStreetMap layer by default
-        openStreetMapLayer.addTo(map);
+        // Add the GeoJSON layer to the marker cluster group
+        praciMarkers.addLayer(praciGeoJsonLayer);
+        // Add the marker cluster group to the map
+        map.addLayer(praciMarkers);
 
-        // Add layer control
-        var baseMaps = {
-            "OpenStreetMap": openStreetMapLayer,
-            "OpenTopoMap": openTopoMapLayer
-        };
+        // Loop through each feature and log the coordinates and properties
+        data.features.forEach(feature => {
+            if (feature.geometry && feature.geometry.coordinates) {
+                const coords = feature.geometry.coordinates;
+                const properties = feature.properties;
+                console.log('Coordinates:', coords);
+                console.log('Properties:', properties);
+            }
+        });
+    })
+    .catch(error => console.error('Error loading Praci_WGS GeoJSON:', error));
 
-        // Create a marker cluster group
-        var markers = L.markerClusterGroup();
+// Create overlays object
+var overlays = {
+    "Karst Data": karstMarkers,
+    "Praci WGS": praciMarkers
+};
 
-        // Load GeoJSON from an external file
-        fetch('karst_data.geojson')
-            .then(response => response.json())
-            .then(data => {
-                // Create GeoJSON layer with custom popups and styles
-                var geoJsonLayer = L.geoJSON(data, {
-                    pointToLayer: pointToLayer,
-                    onEachFeature: function (feature, layer) {
-                        if (feature.properties) {
-                            let popupContent = '<p><strong>Properties:</strong></p><ul>';
-                            const keys = ['namaObjek', 'jenis', 'x', 'y','eksoSurvey','tahunMap'];
-                            keys.forEach(key => {
-                                if (feature.properties[key]) {
-                                    popupContent += `<li>${key}: ${feature.properties[key]}</li>`;
-                                }
-                            });
-                            popupContent += '</ul>';
-                            layer.bindPopup(popupContent);
-                        }
-                    }
-                });
+// Add layer control to the map
+L.control.layers(baseMaps, overlays).addTo(map);
 
-                // Add the GeoJSON layer to the marker cluster group
-                markers.addLayer(geoJsonLayer);
-                // Add the marker cluster group to the map
-                map.addLayer(markers);
-
-                // Loop through each feature and log the coordinates and properties
-                data.features.forEach(feature => {
-                    if (feature.geometry && feature.geometry.coordinates) {
-                        const coords = feature.geometry.coordinates;
-                        const properties = feature.properties;
-                        console.log('Coordinates:', coords);
-                        console.log('Properties:', properties);
-                    }
-                });
-            })
-            .catch(error => console.error('Error loading ERM GeoJSON:', error));
-
-        // Load GeoJSON from an external file
-        fetch('Praci_WGS.geojson')
-            .then(response => response.json())
-            .then(data => {
-                // Create GeoJSON layer with custom popups and styles
-                var geoJsonLayer = L.geoJSON(data, {
-                    pointToLayer: pointToLayer,
-                    onEachFeature: function (feature, layer) {
-                        if (feature.properties) {
-                            let popupContent = '<p><strong>Properties:</strong></p><ul>';
-                            const keys = ['NAMA OBJEK', 'JENIS'];
-                            keys.forEach(key => {
-                                if (feature.properties[key]) {
-                                    popupContent += `<li>${key}: ${feature.properties[key]}</li>`;
-                                }
-                            });
-                            popupContent += '</ul>';
-                            layer.bindPopup(popupContent);
-                        }
-                    }
-                });
-
-                // Add the GeoJSON layer to the marker cluster group
-                markers.addLayer(geoJsonLayer);
-                // Add the marker cluster group to the map
-                map.addLayer(markers);
-
-                // Loop through each feature and log the coordinates and properties
-                data.features.forEach(feature => {
-                    if (feature.geometry && feature.geometry.coordinates) {
-                        const coords = feature.geometry.coordinates;
-                        const properties = feature.properties;
-                        console.log('Coordinates:', coords);
-                        console.log('Properties:', properties);
-                    }
-                });
-            })
-            .catch(error => console.error('Error loading Praci GeoJSON:', error));
-
-        // Create overlays object
-        var overlays = {
-            "Karst Data": karstMarkers,
-            "Praci WGS": praciMarkers
-        };
-
-        // Add layer control to the map
-        L.control.layers(baseMaps, overlays).addTo(map);
-
-        // Add scale control to the map
-        L.control.scale({ metric: true }).addTo(map);
+// Add scale control to the map
+L.control.scale({ metric: true }).addTo(map);
 
     </script>
 </body>
