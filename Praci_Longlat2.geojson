@@ -1,0 +1,1422 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.158892307,110.8008546 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Paseban",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.155149833,110.7932864 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Telogo Pilah",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.156069557,110.7961494 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Logundes",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.132846121,110.7878675 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Songo",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1359351,110.8033089 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Gembrung",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.138001444,110.8117137 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Goa Pendak",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.121697427,110.8030163 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Terus",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.126527708,110.8030412 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Blumbung",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.12676292,110.8031046 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Ponor",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.125171334,110.8039586 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Drutah",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.123878093,110.8044948 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Tukluan",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.129806051,110.8112455 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Goa Makam",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.12932726,110.8125801 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Goa Sumosakir",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.126674091,110.8064905 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telogo Digal",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.128815774,110.8021505 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Ponor Ngaluran",
+    "JENIS":"Ponor",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.121670707,110.8038786 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Terus",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.14566403,110.8140884 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Embung Mesu",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.145862751,110.8134801 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Tebing Mesu",
+    "JENIS":"Tebing",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.143583366,110.8136264 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Mesu 1",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.140877261,110.8103507 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Mesu 2",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.139555354,110.8076462 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Mesu 3",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.140368771,110.8062297 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Landak 1",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.140350654,110.8061753 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Landak 2",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.149343449,110.8096114 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Jumblang",
+    "JENIS":"Collaps",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.148713558,110.7977199 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Blecok ",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.150707652,110.7880329 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Lumbu",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.154011315,110.7920526 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Pilah (Cekdam)",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.142159263,110.7871568 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Dilem",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.145668655,110.7867102 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Goa Totogan",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.149229035,110.7974927 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Mbletok",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.149491361,110.7975107 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Kotekan ",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.150293131,110.791056 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Ponor Pakem",
+    "JENIS":"Ponor",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.149369704,110.7895223 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Larmi",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.144096975,110.7909866 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Tebing Putih",
+    "JENIS":"Tebing",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.142751105,110.7947091 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Njati",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.127395826,110.8221393 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Petirsari",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.127079172,110.8219942 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Petirsari",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.125040383,110.8140344 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Ngresik",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.131310947,110.8186065 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Jenggungan",
+    "JENIS":"Collaps",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.135995051,110.8154091 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Sumur Mendak",
+    "JENIS":"Sumur",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.136564877,110.8153272 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Mendak",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.136295668,110.8201293 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Mbanjeng",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.133287457,110.8292262 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Mbakung",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.134300475,110.8290533 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Mbakung",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.13251137,110.83362 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Mbakagung",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.122314432,110.827134 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Dompol",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.12509191,110.8283673 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Laweyan",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.111599309,110.8150754 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Ngapak",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.108262444,110.8170919 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Goa Gentong",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.109346619,110.8142595 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Buh Lor",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.111715521,110.8120618 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Gebang",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.117279852,110.8150637 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Pahit",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.122086346,110.8226046 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Ponor Banjaran",
+    "JENIS":"Ponor",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.115981909,110.8254938 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Sendang",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.102216314,110.8292847 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Ireng",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.103156914,110.8289757 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Putih",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.097434992,110.863206 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Blembem",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.123735747,110.8531577 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Jamuran",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.123283732,110.853875 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Tlaga Jamuran",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.118572214,110.8571808 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Sumur Bakalan",
+    "JENIS":"Sumur",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.113382413,110.8390922 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Ponor Kacang",
+    "JENIS":"Ponor",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.116267745,110.8386553 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Sebagor",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.11734403,110.8383372 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Sebagor",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.132359447,110.8382041 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Dawung-Dawung",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.12848082,110.8429894 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Growong-Growong",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.106342175,110.8319969 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Jati",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.10723799,110.832759 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Gambir Anom",
+    "JENIS":"Collaps",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.122524113,110.831028 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Lembah Bang",
+    "JENIS":"Collaps",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.122695924,110.8309009 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Lembah Bang 2",
+    "JENIS":"Collaps",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.104755842,110.8463752 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Pugeran",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.104730091,110.8500967 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Telaga Mati",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.111821092,110.8483331 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Area",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.126709989,110.8484728 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Kemukus",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.095946897,110.8500092 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Goa Gunung Resik",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.125878572,110.8505427 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Tilang",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.097092328,110.8664192 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Gumuk",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.10950069,110.8603246 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Dangdang",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.109229926,110.8620856 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Bakalan",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.093247278,110.8642421 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Buang",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.119243158,110.8372835 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Goa Karang",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.118422625,110.8439373 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Telaga Doya",
+    "JENIS":"Telaga",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.118476672,110.8433473 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Goa Doya Lor",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.114683938,110.8365229 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Mblok Duwur",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.119125676,110.8375559 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Pakel",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.116141893,110.7996787 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Gedang",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2021
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.068598,110.854796 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Suci",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.08058,110.85761 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Sinung",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.073012,110.839835 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Jatirogo",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.077743,110.834642 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Ngandong",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.063397,110.816281 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Sambiroto",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.051546,110.802675 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Teleng",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.0545,110.807681 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Sumber Mulyo",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.059363279,110.7991712 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Bete",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"Mac Donald Groundwater Resources 83-84",
+    "TAHUN EX (SURVEY EKSO)":1983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.062429694,110.7991697 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Gadjah",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"Mac Donald Groundwater Resources 83-84",
+    "TAHUN EX (SURVEY EKSO)":1983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.050998,110.793812 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Bohol",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.04156202,110.7819005 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Sodong",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"Mac Donald Groundwater Resources 83-84",
+    "TAHUN EX (SURVEY EKSO)":1983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.051066257,110.7771489 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Song Gilap",
+    "JENIS":"H",
+    "EXO-SURVEYOR":"Mac Donald Groundwater Resources 83-84",
+    "TAHUN EX (SURVEY EKSO)":1983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.043453167,110.7831156 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Sapen",
+    "JENIS":"V",
+    "EXO-SURVEYOR":"Mac Donald Groundwater Resources 83-84",
+    "TAHUN EX (SURVEY EKSO)":1983
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.044077,110.81199 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Sawahan",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.034348,110.819069 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Beji",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.035622,110.81562 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Beton",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.0417,110.7934 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Bendungan ",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.03938,110.79926 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Sunggingan ",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.03945,110.79611 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Lebak",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.004544384,110.8000132 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Joho",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.000945095,110.8132744 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Luweng Wetan (?)",
+    "JENIS":"ponor",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.997297412,110.8081581 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Resurgen Gunungan 1",
+    "JENIS":"resurgen",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.996853954,110.8076683 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Resurgen Gunungan 2",
+    "JENIS":"resurgen",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.005280696,110.799951 ]
+    },
+    "properties": {
+    "NAMA OBJEK":"Kali Yoja",
+    "JENIS":"mataair",
+    "EXO-SURVEYOR":"KMPA Giri Bahama",
+    "TAHUN EX (SURVEY EKSO)":2017
+    }
+  }
+]
+}
