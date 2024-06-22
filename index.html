@@ -102,7 +102,7 @@
                     onEachFeature: function (feature, layer) {
                         if (feature.properties) {
                             let popupContent = '<p><strong>Properties:</strong></p><ul>';
-                            const keys = ['NAMA OBJEK', 'JENIS', 'X', 'Y','EXO-SURVEY','TAHUN EX ('];
+                            const keys = ['NAMA OBJEK', 'JENIS', 'X', 'Y','EXO-SURVEY','TAHUN EX (SURVEY EKSO)'];
                             keys.forEach(key => {
                                 if (feature.properties[key]) {
                                     popupContent += `<li>${key}: ${feature.properties[key]}</li>`;
