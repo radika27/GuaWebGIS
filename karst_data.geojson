@@ -1,0 +1,1948 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.784250241,
+                    -7.974111052
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "gua Kucing",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 476223,
+                "y": 9118558,
+                "z": 579,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": "2x3",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.78311,
+                    -7.99465
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "L. Jambe",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 476098.531509034,
+                "y": 9116287.30763638,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.777414493,
+                    -7.98211834
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Ngunut 1",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 475470.13063,
+                "y": 9117672.37661,
+                "z": 553,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": "1,7x1,1",
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.778804212,
+                    -7.983771673
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Ngunut 2",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 475623.382285,
+                "y": 9117489.679223,
+                "z": 563,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": "2x1,5",
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.77930823,
+                    -7.983777996
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Ngunut 3",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 475678.927644,
+                "y": 9117489.010002,
+                "z": 544,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.76772,
+                    -7.98189
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Pakel Kopek",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 474401.736544326,
+                "y": 9117697.03120303,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.76893225,
+                    -7.976517939
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Pego 1",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 474535,
+                "y": 9118291,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": "8x12",
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.767,
+                    -8.0048
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Karang Talun",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 474323.821269807,
+                "y": 9115164.23106132,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.75928,
+                    -8.01041
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Song Agung",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 473473.449446827,
+                "y": 9114543.54159995,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Patahan",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.778896428,
+                    -7.991448446
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Puser Bumi",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 475634,
+                "y": 9116641,
+                "z": 562,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.78652356,
+                    -7.999701946
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Pedi/Gn Guo",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 476475,
+                "y": 9115729,
+                "z": 600,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.780741999,
+                    -8.00187888
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "L. Jolundo",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 475838,
+                "y": 9115488,
+                "z": 538,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.768081978,
+                    -7.987869752
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Kambil Sawit",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 474442,
+                "y": 9117035.978032,
+                "z": 134,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Tikungan jalan",
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.768959507,
+                    -7.976454635
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Pego 2",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 474538,
+                "y": 9118298,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.771315309,
+                    -7.971220565
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "L. Gunung Cungkup",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 474797.303927,
+                "y": 9118876.78287,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Puncak Bukit",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.78149,
+                    -7.98697
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "L. Keat",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 475919.555120483,
+                "y": 9117136.25477652,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.76605,
+                    -8.00167
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "L. Sari",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 474218.935706993,
+                "y": 9115510.20084339,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.76553185,
+                    -7.99375123
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Tanjung 2",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 474161.33731885,
+                "y": 9116385.60762583,
+                "z": 444,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.76720882,
+                    -7.99535947
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Tanjung 3",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 474346.24281771,
+                "y": 9116207.91762668,
+                "z": 451,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.776481537,
+                    -7.97686581
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng Dudo",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 475367,
+                "y": 9118253,
+                "z": 513,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.777570762,
+                    -7.976206075
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng Dudo Atas",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 475487,
+                "y": 9118326,
+                "z": 518,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.777847026,
+                    -7.9800884
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Ponor Salam",
+                "jenis": "ponor",
+                "jenisID": 3,
+                "x": 475517.677017,
+                "y": 9117896.816773,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Masjid",
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.776211751,
+                    -8.005720781
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber Beji",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 475339,
+                "y": 9115063,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Rimbun",
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan Desa beton",
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.788133802,
+                    -8.001017998
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber Kalisat",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 476652.523566,
+                "y": 9115583.599099,
+                "z": 561,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Patahan",
+                "dimensi": null,
+                "akses": "Jalan Makadam",
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.780180807,
+                    -7.982258907
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber Puring",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 475775,
+                "y": 9117657,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.777634284,
+                    -7.976197064
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber dudo",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 475494,
+                "y": 9118327,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.786928118,
+                    -7.993461056
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber Kembang",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 476519.225348,
+                "y": 9116418.967669,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.777425472,
+                    -7.976404998
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100001,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumur dudo",
+                "jenis": "sumur",
+                "jenisID": 5,
+                "x": 475471,
+                "y": 9118304,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": null,
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.78570012,
+                    -7.96194767
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Kangkung",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 476382.08942,
+                "y": 9119902.77086,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Tekuk lereng",
+                "letak": "Lereng Depresi",
+                "dimensi": "6,5x3 m",
+                "akses": "Jalan Setapak Beton",
+                "tahunMap": 2002,
+                "pemanfaatan": "pernah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.78997697,
+                    -7.959703895
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Kucing",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 476853.3156,
+                "y": 9120151.06661,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": "1x1,5",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.792188965,
+                    -7.966336136
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng Sumur Pule",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 477097.46959,
+                "y": 9119417.98181,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": "0,7x0,6",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "pernah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.793618338,
+                    -7.97036285
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Tambang",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 477255.221487,
+                "y": 9118972.89918,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": "2x2",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "pernah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.793995636,
+                    -7.964535641
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Tembus 1",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 477296.48155,
+                "y": 9119617.12995,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Sungai",
+                "letak": "Aliran Sungai",
+                "dimensi": "3x4",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.793149522,
+                    -7.963851711
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Tembus 2",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 477203.194117,
+                "y": 9119692.693173,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Sungai",
+                "letak": "Aliran Sungai",
+                "dimensi": "3x3",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "pernah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.792200776,
+                    -7.962126939
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Pengangson",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 477098.537398,
+                "y": 9119883.317912,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Aliran Sungai",
+                "dimensi": "1x1,5",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.776110602,
+                    -7.950174609
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Glagah Ombo",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 475324.523126,
+                "y": 9121203.748126,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.802155058,
+                    -7.978690023
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Lawa",
+                "jenis": "gua H",
+                "jenisID": 1,
+                "x": 478196.47556,
+                "y": 9118052.773351,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Patahan",
+                "dimensi": null,
+                "akses": "Jalan Perintis",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.785438672,
+                    -7.965250149
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Suruh",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 476353.46461,
+                "y": 9119537.65998,
+                "z": 537,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Pos Jaga",
+                "letak": "Pusat Depresi",
+                "dimensi": "4x4 m",
+                "akses": "Jalan Setapak Beton",
+                "tahunMap": 2002,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.786353579,
+                    -7.966318361
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua ",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 476454.356924,
+                "y": 9119419.619039,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan Setapak ",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.777377667,
+                    -7.967980597
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng Gesing",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 475465.22965,
+                "y": 9119235.33336,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": "3,2x4 m",
+                "akses": "Jalan setapak",
+                "tahunMap": 2006,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.794320039,
+                    -7.972782045
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng Jeromati",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 477332.68759,
+                "y": 9118705.4907,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Tikungan jalan",
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": "Jalan Desa Beton",
+                "tahunMap": 2002,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.791836798,
+                    -7.969852542
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng WC",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 477058.85337,
+                "y": 9119029.21626,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Belakang rumah",
+                "letak": "Pusat Depresi",
+                "dimensi": "2,5x3 m",
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": "pernah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.774041725,
+                    -7.96470248
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng Tompak",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 475097.382143,
+                "y": 9119597.536885,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": "1x1",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "pernah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.798354024,
+                    -7.97847328
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng Pucung",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 477777.568807,
+                "y": 9118076.53201,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": "2x2",
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.803507403,
+                    -7.997785355
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Sendang",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 478346.517604,
+                "y": 9115941.815206,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.797266258,
+                    -7.997829233
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Gua Bongos",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 477658.743069,
+                "y": 9115936.630976,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": "1,5x2",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.784206143,
+                    -7.954140017
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "ponor Tlogogamping",
+                "jenis": "ponor",
+                "jenisID": 3,
+                "x": 476216.987958,
+                "y": 9120765.837615,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.803446953,
+                    -7.993033403
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Ponor Dunggudel",
+                "jenis": "ponor",
+                "jenisID": 3,
+                "x": 478339.605297,
+                "y": 9116467.150529,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": "1,5x1",
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.797528198,
+                    -7.975414038
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 477686.392296,
+                "y": 9118414.692994,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": "2x2",
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.80540669,
+                    -7.993862791
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber Dunggel",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 478555.614887,
+                "y": 9116375.562463,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.800041946,
+                    -7.963278994
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 477962.774431,
+                "y": 9119756.381801,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.785713746,
+                    -7.961034986
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumur Kangkung",
+                "jenis": "sumur",
+                "jenisID": 5,
+                "x": 476383.53894,
+                "y": 9120003.670794,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "tengah dusun",
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.792266615,
+                    -7.96636337
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumur Pule",
+                "jenis": "sumur",
+                "jenisID": 5,
+                "x": 477106.028796,
+                "y": 9119414.975355,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "pernah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.792229685,
+                    -7.962445731
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumur Bulak",
+                "jenis": "sumur",
+                "jenisID": 5,
+                "x": 477101.741175,
+                "y": 9119848.076364,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Aliran Sungai",
+                "dimensi": "3x3",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "pernah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.789580898,
+                    -7.962752166
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumur Kadus",
+                "jenis": "sumur",
+                "jenisID": 5,
+                "x": 476809.835637,
+                "y": 9119814.051809,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Aliran Sungai",
+                "dimensi": "3x3",
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "pernah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.796536,
+                    -7.965069
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumur Bayan 1",
+                "jenis": "sumur",
+                "jenisID": 5,
+                "x": 477576.48253533,
+                "y": 9119558.30459577,
+                "z": 539.36,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Aliran Sungai",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.794854,
+                    -7.96579
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumur Bayan 2",
+                "jenis": "sumur",
+                "jenisID": 5,
+                "x": 477391.15016672,
+                "y": 9119478.5049739,
+                "z": 541.44,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Aliran Sungai",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.775890804,
+                    -7.950732589
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Tlogo Glagah Ombo",
+                "jenis": "telaga",
+                "jenisID": 6,
+                "x": 475300.331808,
+                "y": 9121142.049102,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.785525576,
+                    -7.95558819
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Tlogo Gamping",
+                "jenis": "telaga",
+                "jenisID": 6,
+                "x": 476362.488507,
+                "y": 9120605.814652,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.786641538,
+                    -7.96652714
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "crack system",
+                "jenis": "crack",
+                "jenisID": 7,
+                "x": 476486.104503,
+                "y": 9119396.554558,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Puncak Bukit",
+                "dimensi": null,
+                "akses": "Jalan Setapak ",
+                "tahunMap": null,
+                "pemanfaatan": "belum dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.80668472,
+                    -7.964838762
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Tebing Mur",
+                "jenis": "tebing",
+                "jenisID": 7,
+                "x": 478694.952848,
+                "y": 9119584.294498,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Patahan",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.802378182,
+                    -7.996335864
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng Masjid Bongos",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 478222,
+                "y": 9116102,
+                "z": 557,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Masjid",
+                "letak": "Lereng Depresi",
+                "dimensi": "0,4x05",
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.798695032,
+                    -7.994226484
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Resurgen Rumah Pak Wiji",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 477816,
+                "y": 9116335,
+                "z": 571,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": null,
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.801189714,
+                    -7.995774473
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Resurgen Rumah Pak Eko",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 478091,
+                "y": 9116164,
+                "z": 564,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": null,
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.804746417,
+                    -7.996689765
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100002,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Luweng Dayangan",
+                "jenis": "gua V",
+                "jenisID": 2,
+                "x": 478483,
+                "y": 9116063,
+                "z": 526,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": null,
+                "letak": "Pusat Depresi",
+                "dimensi": null,
+                "akses": "Jalan Setapak ",
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.792518818,
+                    -7.955997171
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100003,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber Banyon",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 477133.24904,
+                "y": 9120560.993748,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Pinggir jalan",
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan Desa Beton",
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.777653468,
+                    -7.941224564
+                ]
+            },
+            "properties": {
+                "kodeDesa": 3312100003,
+                "kodeKarst": "gns_wng_erm",
+                "namaObjek": "Sumber Jati",
+                "jenis": "mataair",
+                "jenisID": 4,
+                "x": 475494.036742,
+                "y": 9122193.285645,
+                "z": null,
+                "prov": "Jawa Tengah",
+                "kabKot": "Wonogiri",
+                "tempatUnik": "Rimbun",
+                "letak": "Lereng Depresi",
+                "dimensi": null,
+                "akses": "Jalan setapak",
+                "tahunMap": null,
+                "pemanfaatan": "sudah dimanfaatkan",
+                "eksoSurvey": "KMPA Giri Bahama"
+            }
+        }
+    ]
+}

@@ -93,7 +93,7 @@
         var markers = L.markerClusterGroup();
 
         // Load GeoJSON from an external file
-        fetch('Praci_Longlat2.geojson')
+        fetch('karst_data.geojson')
             .then(response => response.json())
             .then(data => {
                 // Create GeoJSON layer with custom popups and styles
@@ -102,7 +102,7 @@
                     onEachFeature: function (feature, layer) {
                         if (feature.properties) {
                             let popupContent = '<p><strong>Properties:</strong></p><ul>';
-                            const keys = ['NAMA OBJEK', 'JENIS', 'X', 'Y','EXO-SURVEY','TAHUN EX (SURVEY EKSO)'];
+                            const keys = ['namaObjek', 'jenis', 'x', 'y','eksoSurvey','tahunMap'];
                             keys.forEach(key => {
                                 if (feature.properties[key]) {
                                     popupContent += `<li>${key}: ${feature.properties[key]}</li>`;
